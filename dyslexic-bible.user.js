@@ -4,7 +4,7 @@
 // @version      2
 // @description  Use a dyslexic-friendly font at bible.com
 // @match        https://*.bible.com/bible/*
-// updateURL     https://github.com/natematykiewicz/dyslexic-bible/raw/master/dyslexic-bible.user.js
+// updateURL     https://raw.githubusercontent.com/natematykiewicz/dyslexic-bible/master/dyslexic-bible.user.js
 // ==/UserScript==
 
 (function() {
