@@ -1,8 +1,9 @@
 // ==UserScript==
+// @author       Nate Matykiewicz
 // @name         Dyslexie font for bible.com
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/natematykiewicz
 // @version      4
-// @description  Use a dyslexic-friendly font at bible.com
+// @description  Make bible.com be dyslexic friendly, by using the "Dyslexie" font and making the background off-white.
 // @include      https://*.bible.com/bible
 // @include      https://*.bible.com/bible/*
 // updateURL     https://raw.githubusercontent.com/natematykiewicz/dyslexic-bible/master/dyslexic-bible.user.js
